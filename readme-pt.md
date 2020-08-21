@@ -9,7 +9,7 @@
 </div>
 <br>
 <div align="center">
-<a href="#">Português</a> | <a href="https://github.com/amanda-emerick/proffy/blob/master/README.md">Inglês</a>
+<a href="https://github.com/amanda-emerick/proffy/blob/master/readme-pt.md">Português</a> | <a href="https://github.com/amanda-emerick/proffy/blob/master/README.md">Inglês</a>
 </div>
 <br>
 
