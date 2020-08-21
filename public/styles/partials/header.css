@@ -1,0 +1,117 @@
+
+.page-header {
+    background-color: var(--color-primary);
+    display: flex;
+    flex-direction: column;
+}
+
+.page-header .header-top-bar {
+    width: 100%;
+    background-color: #8ddac3;
+}
+
+.page-header .top-bar-container {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.6rem 0;
+    color: #9ee9d2;
+}
+
+.page-header .top-bar-container a {
+    height: 3.2rem;
+    transition: opacity 0.2s;
+}
+
+.page-header .top-bar-container a:hover {
+    opacity: 0.6;
+}
+
+.page-header .top-bar-container > img {
+    height: 1.6rem;
+}
+
+.page-header .header-content {
+    width: 90%;
+    margin: 3.2rem auto;
+    position: relative;
+}
+
+.page-header .header-content strong {
+    font: 700 3.6rem Archivo;
+    line-height: 4.2rem;
+    color: var(--color-title-in-primary);
+}
+
+.page-header .header-content p {
+    max-width: 30rem;
+    font-size: 1.6rem;
+    line-height: 2.6rem;
+    color: var(--color-text-in-primary);
+    margin-top: 2.4rem;
+}
+
+.page-header .header-texts .rocket,
+.page-header .header-texts .teachers {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    font-size: 1.4rem;
+    line-height: 2rem;
+}
+
+.page-header .header-texts .rocket img,
+.page-header .header-texts .teachers img {
+    margin-right: 1rem;
+}
+
+.page-header .header-texts .teachers img {
+    height: 2.4rem;
+}
+
+@media (min-width: 700px) {
+    .page-header {
+        height: 340px;
+    }
+
+    .page-header .top-bar-container {
+        max-width: 1100px;
+    }
+
+    .page-header .header-content {
+        max-width: 740px;
+        margin: 0 auto;
+        flex-direction: column;
+        flex: 1 1; /*estica o conteúdo para ocupar toda a caixa*/
+        justify-content: center; 
+        padding-bottom: 48px;
+        display: flex;
+        text-align: left;
+    }
+
+    .page-header .header-texts {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .page-header .header-texts img{
+        margin-right: 2rem;
+    }
+    
+    .page-header .header-texts .rocket,
+    .page-header .header-texts .teachers {
+        max-width: 15rem;
+        font-size: 1.2rem;
+    }
+
+    .page-header .header-texts .teachers img {
+        height: 3.4rem;
+    }
+
+    .page-header .header-content strong {
+        max-width: 351px;
+    }
+}

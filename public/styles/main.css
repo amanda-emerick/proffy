@@ -1,0 +1,62 @@
+:root {
+    --color-background: #F0F0F7;
+    --color-primary-lighter: #f4154d;
+    --color-primary-light: #d60a3d;
+    --color-primary: #98ecd3;
+    --color-primary-dark: #23be8f;
+    --color-primary-darker: #6842c2;
+    --color-secondary: #9b62a7;
+    --color-secondary-dark: #865190;
+    --color-title-in-primary: #315472;
+    --color-text-in-primary: #3D698F;
+    --color-text-title: #20374b;
+    --color-text-complement: #7a828a;
+    --color-text-base: #4c5b69;
+    --color-line-in-white: #E6E6F0;
+    --color-input-background: #f9f9ff;
+    --color-button-text: #FFFFFF;
+    --color-box-base: #FFFFFF;
+    --color-box-footer: #FAFAFC;
+    --color-small-info: #C1BCCC;
+    font-size: 60%; /* controle das medidas rem */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100vh;
+}
+
+body {
+    background: var(--color-background);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body,
+input,
+button,
+textarea {
+    font: 500 1.6rem Poppins;
+    color: var(--color-text-base);
+}
+
+#container {
+    width: 90vw;
+    max-width: 700px;
+}
+
+@media (min-width: 700px) {
+    :root {
+        font-size: 62.5%;
+    }
+}
+
+
+

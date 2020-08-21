@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="46px" height="32px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 460 319"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#315472;stroke-width:14.9749;stroke-linecap:round;stroke-linejoin:round}
+    .fil1 {fill:none}
+    .fil0 {fill:white;fill-opacity:0.000000}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <path d="M3 319l454 0 0 -319 -454 0 0 319z"/>
+    </clipPath>
+    <clipPath id="id1">
+     <path d="M3 319l454 0 0 -319 -454 0 0 319z"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_355112024">
+   <g style="clip-path:url(#id0)">
+    <polygon class="fil0" points="3,0 457,0 457,319 3,319 "/>
+   </g>
+   <g style="clip-path:url(#id1)">
+    <g>
+     <line id="1" class="fil1 str0" x1="23" y1="160" x2="482" y2= "160" />
+    </g>
+   </g>
+   <polygon class="fil1" points="3,319 457,319 457,0 3,0 "/>
+   <polyline class="fil1 str0" points="63,210 13,160 63,110 "/>
+  </g>
+ </g>
+</svg>
