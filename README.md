@@ -87,7 +87,7 @@ npm run dev
 This project is under the [MIT License](https://github.com/amanda-emerick/proffy/blob/master/LICENSE).
 
 <p align="center">
-**Made with :purple_heart: by Amanda Emerick.**
+<b>Made with :purple_heart: by Amanda Emerick.</b>
 </p> 
 
 
