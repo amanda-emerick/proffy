@@ -18,7 +18,6 @@
 * [About](#about)
 * [Preview](#preview)
 * [Screenshots](#screenshots)
-* [Demo website](#demo)
 * [Technologies](#technologies)
 * [New Features](#new-features)
 * [How to run](#how-to-run)
@@ -40,10 +39,6 @@ Project made at **[@Rocketseat](https://github.com/Rocketseat) Next Level Week #
 ![desktop-version](https://github.com/amanda-emerick/proffy/blob/master/readme/desktop-version.png)
 ### Mobile
 ![mobile-version](https://github.com/amanda-emerick/proffy/blob/master/readme/mobile-version.png)
-
-<a id="demo"></a>
-## :computer_mouse: Demo Website
-You can access the demo website [here]().
 
 <a id="technologies"></a>
 ## :computer: Technologies
