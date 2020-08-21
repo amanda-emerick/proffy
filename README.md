@@ -32,7 +32,4 @@ Project made at **[@Rocketseat](https://github.com/Rocketseat) Next Level Week #
 
 ## :desktop_computer: Screenshots
 ### Web
-<img alt="web-index" src="https://github.com/amanda-emerick/proffy/blob/master/readme/web-index.png" width="450px"> <img alt="web-success" src="https://github.com/amanda-emerick/proffy/blob/master/readme/web-success.png" width="450px">
-<img alt="web-study" src="https://github.com/amanda-emerick/proffy/blob/master/readme/web-study.jpg" width="440px"> <img alt="web-give-classes" src="https://github.com/amanda-emerick/proffy/blob/master/readme/web-give-classes.png" width="460px">
-### Mobile
-<img alt="mobile-index" src="https://github.com/amanda-emerick/proffy/blob/master/readme/mobile-index.png" width="200px"><img alt="mobile-study" src="https://github.com/amanda-emerick/proffy/blob/master/readme/mobile-study.png" width="200px"><img alt="mobile-give-classes" src="https://github.com/amanda-emerick/proffy/blob/master/readme/mobile-give-classes.png" width="200px"><img alt="mobile-success" src="https://github.com/amanda-emerick/proffy/blob/master/readme/mobile-success.png" width="200px">
+
